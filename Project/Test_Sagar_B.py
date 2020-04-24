@@ -3,4 +3,4 @@ print('First Git File')
 Income = 100
 Tax_rate = .1
 Total Tax Paid = Income *  Tax_rate
-Print(Total Tax Paid)
+Print (Total Tax Paid)
