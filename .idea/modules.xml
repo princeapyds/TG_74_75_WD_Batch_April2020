@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/TG_74_75_WD_Batch_April2020_new.iml" filepath="$PROJECT_DIR$/.idea/TG_74_75_WD_Batch_April2020_new.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/TG_74_75_WD_Batch_April2020.1.iml" filepath="$PROJECT_DIR$/.idea/TG_74_75_WD_Batch_April2020.1.iml" />
+>>>>>>> origin/Sales
     </modules>
   </component>
 </project>
