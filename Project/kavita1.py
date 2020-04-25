@@ -1,4 +1,5 @@
-print(' hi i am kavita here')
+import numpy as np
 
-a=10
-print(a)
+a=np.array([1,2,3,4])
+print(a.itemsize)
+print(a.ndim)
